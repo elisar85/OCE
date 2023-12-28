@@ -210,4 +210,10 @@ h1 {
     width: 33.3%;
     height: 100%;
     border: solid 1px red;
+    text-align: left;
+}
+.down h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    font-weight:900;
 }
