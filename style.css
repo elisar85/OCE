@@ -127,4 +127,11 @@ h1 {
     background-position-x: 50%;
     background-size: cover;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-b-1{
+    width: 35%;
+    height: 80%;
+    background-color: white;
 }
