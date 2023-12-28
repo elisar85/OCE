@@ -222,3 +222,8 @@ h1 {
     font-weight: 100;
     font-size: 140%;
 }
+.down a{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    font-size: 130%;
+}
