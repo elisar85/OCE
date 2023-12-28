@@ -19,7 +19,6 @@ h1 {
     width: 100%;
     height: 50%;
     display: flex;
-    border: solid 1px red;
 }
 #p1{
     width: 40%;
@@ -33,5 +32,10 @@ h1 {
 }
 .containers{
     width: 15%;
-    border: solid 1px red;
+    border: solid 3px #f97c37;
+}
+#cont{
+    display: flex;
+    justify-content: space-evenly;
+
 }
