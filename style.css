@@ -33,6 +33,7 @@ h1 {
 .containers{
     width: 15%;
     border: solid 3px #f97c37;
+    text-align: center;
 }
 #cont{
     display: flex;
