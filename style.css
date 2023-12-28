@@ -1,12 +1,10 @@
 .main{
     width: 100%;
     height: 600vh;
-    border: solid 1px red;
 }
 #block-1{
     width: 100%;
     height: 13%;
-    border: solid 1px blue;
     background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2260892/images/hhh.jpg);
     background-size: cover;
     background-position-x: 50%;
@@ -28,7 +26,7 @@ h1 {
 #block-2{
     width: 100%;
     height: 17%;
-    border: solid 1px red;
+
 }
 .containers{
     width: 15%;
@@ -191,7 +189,6 @@ h1 {
 .upp{
     width: 100%;
     height: 48%;
-    border: solid 1px red;
     text-align: center;
 }
 #up1{
@@ -209,7 +206,6 @@ h1 {
 .down{
     width: 33.3%;
     height: 100%;
-    border: solid 1px red;
     text-align: left;
 }
 .down h2{
@@ -224,6 +220,9 @@ h1 {
 }
 .down a{
     font-family: 'Montserrat', sans-serif;
-    text-decoration: underline;
+    border-bottom: solid 5px #f97c37;
+    text-decoration: none;
     font-size: 130%;
+    color: black;
+
 }
