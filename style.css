@@ -166,3 +166,10 @@ h1 {
 .innber-block-5 h1{
     font-size: 210%;
 }
+.innber-block-5 p {
+    font-size: 150%;
+    width: 80%;
+    padding: 3%;
+    font-family: 'Montserrat', sans-serif;
+
+}
