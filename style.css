@@ -1,11 +1,11 @@
 .main{
     width: 100%;
-    height: 350vh;
+    height: 550vh;
     border: solid 1px red;
 }
 #block-1{
     width: 100%;
-    height: 23%;
+    height: 15%;
     border: solid 1px blue;
     background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2260892/images/hhh.jpg);
     background-size: cover;
@@ -17,7 +17,7 @@ h1 {
 }
 .text{
     width: 100%;
-    height: 40%;
+    height: 30%;
     display: flex;
 }
 #p1{
@@ -27,7 +27,7 @@ h1 {
 }
 #block-2{
     width: 100%;
-    height: 23%;
+    height: 13%;
 }
 .containers{
     width: 15%;
@@ -44,7 +44,7 @@ h1 {
 }
 #block-3{
     width: 100%;
-    height: 20%;
+    height: 15%;
     align-items: center;
     background-color: #f2f2f2;
     display: flex;
@@ -73,4 +73,29 @@ h1 {
 #inner-block-number-2{
     background-image: url(https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/4c681054b27252e69f559aed/jhjh.jpg);
     background-size: cover;
+    background-position-x: 50%;
+}
+#block-4{
+    width: 100%;
+    height: 13%;
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innerblock-1{
+    width: 70%;
+    height: 70%;
+    display: flex;
+}
+.inner-blocks-number-2{
+    width: 33.3%;
+    height: 100%;
+    border: solid 1px red;
+}
+#inner-blocks-number-2{
+    background-image: url(	https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/822293ed7be25c48819fcac2/99.jpg);
+    background-size: cover;
+    background-position-x: 50%;
+
 }
