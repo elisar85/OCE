@@ -128,10 +128,17 @@ h1 {
     background-size: cover;
     display: flex;
     justify-content: center;
+    
     align-items: center;
 }
 .inner-b-1{
     width: 35%;
     height: 80%;
     background-color: white;
+    border-left: solid 10px;
+    border-color: #f97c37;
+    padding: 1%;
+}
+.inner-b-1 p{
+    font-family: 'Montserrat', sans-serif;
 }
