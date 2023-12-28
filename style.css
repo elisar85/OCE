@@ -186,4 +186,10 @@ h1 {
     height: 15%;
     display: flex;
     background-color: #f2f2f2;
+    flex-direction: column;
+}
+.upp{
+    width: 100%;
+    height: 48%;
+    border: solid 1px red;
 }
