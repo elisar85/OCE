@@ -99,3 +99,15 @@ h1 {
     background-position-x: 50%;
 
 }
+#inner-blocks-number-3{
+    background-color: black;
+    text-align: center;
+}
+#inner-blocks-number-3 h1{
+    color: white;
+}
+#inner-blocks-number-3 p{
+    color: white;
+    font-size: 150%;
+
+}
