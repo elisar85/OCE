@@ -173,3 +173,8 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 
 }
+#div2{
+    background-image: url(https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/4d40432cc0cd5e96a2d97351/jhj.jpg);
+    background-position-x: 50%;
+    background-size: cover;
+}
